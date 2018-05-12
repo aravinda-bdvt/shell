@@ -2,4 +2,5 @@
 
 apt-get install httpd
 df -h
+ls -al 
 
