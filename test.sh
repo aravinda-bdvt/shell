@@ -3,4 +3,4 @@
 apt-get install httpd
 df -h
 ls -al 
-#echo "hellow world"
+echo "hellow world"
